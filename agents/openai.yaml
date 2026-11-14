@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 363"
+  short_description: "白纸线描小人：真实空间里贴一张白纸剪片，用粗蜡笔线描出主体"
+  default_prompt: "Use $xxd-panel-363 to turn my photo into Paper Cut-out Sketch artwork."

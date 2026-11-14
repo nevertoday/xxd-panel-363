@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 363｜Paper Cut-out Sketch: keeps the photo on top, identity, pose, texture and light intact, colour lightly adjusted, and below takes the subject out of that same soft, pale room and pastes a hand-cut white sheet where it stood. The sheet follows the outer contour: uneven margin, hard corners, thin shadow. The drawing is black crayon of jumping weight, burred edge, hair or the darkest mass filled solid, few folds, face only an outline. A scene keeps its structure and turns only one thing into paper. The same pen adds offset lines on a table, door or floor and tiny messy notes with curved leaders on the wall, one near-black, paper left white, Chinese in simplified characters, nothing crossing the middle. Outputs PNG top-bottom comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-363 or asks for a white-paper cut-out, a crayon line figure on a real photo, or a shop-space sketch from a photo.",
+  "short_description": "白纸线描小人：真实空间里贴一张白纸剪片，用粗蜡笔线描出主体",
+  "zh-CN": {
+    "name": "白纸线描小人",
+    "tagline": "照片里的空间留着，主体换成白纸剪片，用粗蜡笔线描出来。",
+    "look": "上半是原照片：主体的身份、结构、姿态、质感和自然光影都留着，颜色只轻轻调过，主体上方留空、顶部不被裁掉，招牌和印刷字只出现在这里。下半仍是这张照片的空间，略微虚焦、颜色清淡，原来的主体被抽走；若是一处场景，就留下空间的骨架、删掉杂物，只把最有代表性的一个换成纸片。原位贴着一张沿外轮廓随手剪下的白纸，边上一圈不均匀的白边，转角是硬折，纸上有一点薄影；纸上的主体只用粗细跳动、带点毛刺的黑色蜡笔线勾出，头发或最深的一块涂实黑，衣服只留几道褶，脸只留轮廓线，姿态与照片一致，同一支笔还在桌面、门框或地面上描几根和真实边缘轻轻错开的线。空墙上散着很少几处很小的潦草手写，带着弧形引线，字和线是同一种近黑，中文用简体，不把墙写满，剪片纯白、线条不上色，任何部分都不碰到中间的折痕。",
+    "traits": [
+      "实景空间做底",
+      "随手剪的白纸片",
+      "粗细跳动的蜡笔线",
+      "近黑潦草标注",
+      "纯白纸片和薄影",
+      "线条不上色"
+    ],
+    "good": [
+      "人在店里或房间里的日常：柜台后的店员、推门进来的人、坐在桌边的顾客",
+      "一件东西或一只动物待在认得出的空间里：门边的椅子、窗下的猫、货架上的一盆植物",
+      "构图乱、背景杂、主体偏小的室内照片，只要空间本身还在"
+    ],
+    "poor": [
+      "没有可留的空间，或没有明确单体：白底商品特写、贴满画面的局部、没有主体的远景",
+      "每个人或每件东西都要留下来的合影、一排同样重要的商品",
+      "想让主体仍是照片、纸片剪成方块或圆角、线条细而均匀、背景换成纯色或给线条上色"
+    ]
+  },
+  "en": {
+    "name": "Paper Cut-out Sketch",
+    "tagline": "Keeps the room in your photo and swaps the subject for a white paper cut-out drawn in thick crayon.",
+    "look": "The top half keeps the photograph: identity, structure, pose, texture and natural light stay, colour is only lightly adjusted, the top of the subject is not cropped, and signs or printed words remain only there. Below is the same space, a little soft and pale, with the subject removed; a scene keeps the structure of the place, drops the clutter, and turns only its most representative thing into paper. A hand-cut sheet of pure white paper is pasted where the subject stood, with an uneven white margin, hard corners and a thin shadow, and on it the subject is drawn only in black crayon whose thickness jumps and whose edge is slightly burred — hair or the darkest mass filled solid black, a few folds in the clothes, the face only an outline, the pose matching the photo — while the same pen adds a few lines on a table, door frame or floor, slightly off the real edges. A few very small messy notes with curved leaders sit on the empty wall, the same near-black as the lines, Chinese in simplified characters, never covering the wall; the paper and the lines take no other colour, and nothing meets the middle.",
+    "traits": [
+      "Real room as the ground",
+      "Hand-cut white paper",
+      "Crayon line of jumping weight",
+      "Tiny messy notes",
+      "Pure white sheet, thin shadow",
+      "No colour on the lines"
+    ],
+    "good": [
+      "Someone in a shop or a room: a person behind the counter, someone coming through a door, a customer at a table",
+      "One object or animal in a place you can still read: a chair by a door, a cat under a window, a plant on a shelf",
+      "Messy indoor photos with a small subject, as long as the room itself is still there"
+    ],
+    "poor": [
+      "Photos with no space to keep, or no single subject: a product on white, a frame filled edge to edge, a distant view with nothing to single out",
+      "Group portraits or rows of equal products where every one has to stay",
+      "Requests that leave the subject as a photograph, cut the paper into squares or rounded rectangles, use thin even lines, swap the room for flat colour, or colour the lines"
+    ]
+  },
+  "ja": {
+    "name": "白紙の線描",
+    "tagline": "写真の空間は残し、主役を白い切り紙に替え、太いクレヨンで描き直します。",
+    "look": "上半分は元の写真で、主役の身元、構造、姿勢、質感と自然な光は残り、色だけをわずかに整え、上は切らず、看板や印刷された文字はこの中だけに残します。下半分は同じ空間で、少しぼけて色は薄く、元の主役は抜き取られ、場面なら場所の骨格を残して雑物を削り、最もその場を代表する一つだけを紙に替えます。その位置には外輪郭に沿って手で切った真っ白な紙が貼られ、縁は不均一な白い余白、角は折ったような直線、紙は薄い影を落とし、上は太さが跳ねて少し毛羽立った黒いクレヨンの線だけで、髪か最も暗い一塊は黒く塗り、服はひだ数本、顔は輪郭線だけ、姿勢は写真と同じで、同じペンが机やドア枠や床に実物の縁からわずかにずれた線を数本足します。空いた壁にはごく小さい走り書きが少しだけ、弧の引出線つきで散らばり、字も線も同じ近黒、中国語は簡体字、壁は埋めず、紙と線にほかの色は乗せず、中央の折れ目には何も触れません。",
+    "traits": [
+      "実写の空間が地",
+      "手で切った白い紙",
+      "太さが跳ねるクレヨン",
+      "ごく小さい走り書き",
+      "真っ白な紙と薄い影",
+      "線に色を乗せない"
+    ],
+    "good": [
+      "店や部屋にいる人の日常：カウンターの向こうの店員、ドアを押す人、テーブルに座る客",
+      "場所が読める中の一つの物や動物：ドア脇の椅子、窓の下の猫、棚の上の鉢植え",
+      "構図が散らかり主役が小さくても、空間そのものが残っている室内の写真"
+    ],
+    "poor": [
+      "残せる空間がない、または一つに絞れない写真：白背景の商品、画面いっぱいの接写、主体のない遠景",
+      "全員を残したい集合写真や、どれも同じくらい大事な商品の並び",
+      "主体を写真のままにしたい、紙を四角や丸角に切りたい、線を細く均一にしたい、背景を単色にしたい、線に色を付けたい場合"
+    ]
+  },
+  "ko": {
+    "name": "백지 선묘",
+    "tagline": "사진 속 공간은 두고, 주인공만 흰 종이로 바꿔 굵은 크레용으로 다시 그립니다.",
+    "look": "위쪽은 원래 사진으로, 주인공의 정체와 구조, 자세, 질감과 자연광은 남고 색만 살짝 다듬으며, 위는 잘리지 않고 간판과 인쇄된 글자는 이 안에만 있습니다. 아래는 같은 공간으로 초점이 조금 풀리고 색은 옅으며 원래 주인공은 빠져 있고, 장면이면 장소의 뼈대만 남기고 잡동사니를 덜어 그 자리를 가장 잘 나타내는 하나만 종이로 바꿉니다. 그 자리에는 바깥 윤곽을 따라 손으로 오린 순백의 종이가 붙고, 가장자리는 고르지 않은 흰 여백, 모서리는 꺾인 직선, 얇은 그림자가 지며, 위는 굵기가 뛰고 가장자리가 살짝 거친 검은 크레용 선뿐으로 머리나 가장 어두운 덩어리는 검게 칠하고 옷은 주름 몇 줄, 얼굴은 윤곽선만, 자세는 사진과 같으며, 같은 펜으로 탁자나 문틀이나 바닥에 실제 가장자리에서 살짝 비낀 선을 몇 가닥 더합니다. 빈 벽에는 아주 작은 흘림 글씨가 몇 곳, 호를 그리는 지시선과 함께 흩어지고, 글씨와 선은 같은 검정에 가까운 색, 중국어는 간체, 벽은 글로 채우지 않으며, 종이와 선에는 다른 색을 올리지 않고 가운데 접힘에는 아무것도 닿지 않습니다.",
+    "traits": [
+      "실제 공간이 바탕",
+      "손으로 오린 흰 종이",
+      "굵기가 뛰는 크레용 선",
+      "아주 작은 흘림 메모",
+      "순백 종이와 얇은 그림자",
+      "선에 색을 올리지 않음"
+    ],
+    "good": [
+      "가게나 방에 있는 사람의 일상: 카운터 뒤의 점원, 문을 밀고 들어오는 사람, 탁자에 앉은 손님",
+      "장소를 알아볼 수 있는 물건이나 동물 하나: 문가의 의자, 창 아래 고양이, 선반 위의 화분",
+      "구도가 어수선하고 주인공이 작아도 공간 자체는 남아 있는 실내 사진"
+    ],
+    "poor": [
+      "남길 공간이 없거나 하나로 집어낼 주인공이 없는 사진: 흰 배경 상품, 화면을 꽉 채운 클로즈업, 주인공 없는 원경",
+      "모두가 남아야 하는 단체 사진, 똑같이 중요한 상품이 늘어선 경우",
+      "주인공을 사진 그대로 두고 싶거나, 종이를 사각형이나 둥근 모서리로 자르거나, 선을 가늘고 고르게 하거나, 배경을 단색으로 바꾸거나, 선에 색을 칠하고 싶은 경우"
+    ]
+  },
+  "ar": {
+    "name": "خط الشمع على قصاصة",
+    "tagline": "يُبقي مكان الصورة، ويستبدل العنصر بقصاصة بيضاء مرسومة بقلم شمع عريض.",
+    "look": "يبقى النصف العلوي الصورة كما هي: هوية العنصر وبنيته ووضعه وملمسه وضوؤه الطبيعي، مع تعديل خفيف للون فقط، وفراغ فوقه من دون قصّ أعلاه، واللافتات والكلمات المطبوعة لا تخرج من هذه الصورة. النصف السفلي هو المكان نفسه بتركيز أخف وألوان أفتح بعد إزالة العنصر؛ وإذا كانت الصورة مشهداً يُبقى هيكل المكان وتُحذف الزوائد، ولا تُستبدل بورقة إلا أكثر قطعة واحدة تعبيراً. في موضع العنصر قصاصة بيضاء خالصة مقصوصة يدوياً على محيطه، بحاشية بيضاء غير متساوية وزوايا حادّة وظلّ رقيق، وعليها يُرسم بقلم شمع أسود يقفز سمك خطّه وتشعّث حافّته قليلاً: الشعر أو أكثف بقعة تُملأ بالأسود، والثياب تحتفظ بطيّات قليلة، والوجه بمحيطه فقط، والوضع مطابق للصورة، والقلم نفسه يضيف خطوطاً قليلة على الطاولة أو إطار الباب أو الأرض تنحرف قليلاً عن الحواف الحقيقية. على الجدار الفارغ ملاحظات قليلة جداً وصغيرة بخط يد متعجّل وخطوط إرشاد مقوّسة، بلون قريب من الأسود كالخطوط، والصينية بالمبسّطة، من دون تغطية الجدار ومن دون لون على الورقة أو الخطوط، ولا يلمس شيء منتصف الصورة.",
+    "traits": [
+      "مكان حقيقي في الخلفية",
+      "قصاصة بيضاء مقصوصة يدوياً",
+      "خط قلم شمع متفاوت السماكة",
+      "ملاحظات صغيرة بخط اليد",
+      "ورقة بيضاء وظلّ رقيق",
+      "بلا لون على الخطوط"
+    ],
+    "good": [
+      "يوم في متجر أو غرفة: بائع خلف المنضدة، شخص يدفع الباب، زبون جالس إلى طاولة",
+      "شيء أو حيوان واحد في مكان يُعرف: كرسي قرب الباب، قطة تحت النافذة، نبتة على رف",
+      "صور داخلية بتكوين ضعيف أو بعنصر صغير، ما دام المكان نفسه واضحاً"
+    ],
+    "poor": [
+      "صور بلا مكان يُبقى أو بلا عنصر واحد واضح: منتج على خلفية بيضاء، لقطة تملأ الإطار، أفق بلا عنصر",
+      "صورة جماعية يجب أن يبقى فيها كل شخص، أو صفّ من أشياء متساوية الأهمية",
+      "طلب يُبقي العنصر صورةً، أو يقصّ الورق مربعات أو زوايا مستديرة، أو يجعل الخطوط رفيعة متساوية، أو يبدّل المكان بلون مسطّح، أو يلوّن الخطوط"
+    ]
+  }
+}
