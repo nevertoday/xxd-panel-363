@@ -81,7 +81,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 </table>
 
 <details>
-<summary>再看 15 张</summary>
+<summary>再看 16 张</summary>
 
 <table>
   <tr>
@@ -102,18 +102,19 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 363 · 13 · 田中奶牛"><br><sub>13 · 田中奶牛</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · 亚麻面包"><br><sub>14 · 亚麻面包</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · 单只水壶"><br><sub>14 · 单只水壶</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · 莓果蛋糕"><br><sub>15 · 莓果蛋糕</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · 草甸木屋"><br><sub>16 · 草甸木屋</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · 亚麻面包"><br><sub>15 · 亚麻面包</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · 莓果蛋糕"><br><sub>16 · 莓果蛋糕</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · 原野风机"><br><sub>17 · 原野风机</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · 门廊南瓜"><br><sub>18 · 门廊南瓜</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · 草甸木屋"><br><sub>17 · 草甸木屋</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · 原野风机"><br><sub>18 · 原野风机</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · 花园推车"><br><sub>19 · 花园推车</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · 门廊南瓜"><br><sub>19 · 门廊南瓜</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · 花园推车"><br><sub>20 · 花园推车</sub></td>
   </tr>
 </table>
 
@@ -123,12 +124,12 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · 门框站立"><br><sub>20 · 门框站立</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · 伞下圣诞老人"><br><sub>21 · 伞下圣诞老人</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · 门框站立"><br><sub>21 · 门框站立</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · 伞下圣诞老人"><br><sub>22 · 伞下圣诞老人</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · 完整芭蕾舞者"><br><sub>22 · 完整芭蕾舞者</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · 小路散步"><br><sub>23 · 小路散步</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · 完整芭蕾舞者"><br><sub>23 · 完整芭蕾舞者</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · 小路散步"><br><sub>24 · 小路散步</sub></td>
   </tr>
 </table>
 
@@ -137,36 +138,36 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · 瑜伽体式"><br><sub>24 · 瑜伽体式</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · 直立企鹅"><br><sub>25 · 直立企鹅</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · 瑜伽体式"><br><sub>25 · 瑜伽体式</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · 直立企鹅"><br><sub>26 · 直立企鹅</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · 水边火烈鸟"><br><sub>26 · 水边火烈鸟</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · 篱上猫头鹰"><br><sub>27 · 篱上猫头鹰</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · 水边火烈鸟"><br><sub>27 · 水边火烈鸟</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · 篱上猫头鹰"><br><sub>28 · 篱上猫头鹰</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · 室内坐猫"><br><sub>28 · 室内坐猫</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · 室内立犬"><br><sub>29 · 室内立犬</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · 室内坐猫"><br><sub>29 · 室内坐猫</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · 室内立犬"><br><sub>30 · 室内立犬</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · 桌上台灯"><br><sub>30 · 桌上台灯</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · 靠墙木梯"><br><sub>31 · 靠墙木梯</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · 桌上台灯"><br><sub>31 · 桌上台灯</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · 靠墙木梯"><br><sub>32 · 靠墙木梯</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · 素色高瓶"><br><sub>32 · 素色高瓶</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · 墙角扫帚"><br><sub>33 · 墙角扫帚</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · 素色高瓶"><br><sub>33 · 素色高瓶</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · 墙角扫帚"><br><sub>34 · 墙角扫帚</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · 切开菠萝"><br><sub>34 · 切开菠萝</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · 龟背竹叶"><br><sub>35 · 龟背竹叶</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · 切开菠萝"><br><sub>35 · 切开菠萝</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · 龟背竹叶"><br><sub>36 · 龟背竹叶</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · 园中葵花"><br><sub>36 · 园中葵花</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · 坡上孤松"><br><sub>37 · 坡上孤松</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · 园中葵花"><br><sub>37 · 园中葵花</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · 坡上孤松"><br><sub>38 · 坡上孤松</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · 盆栽仙人掌"><br><sub>38 · 盆栽仙人掌</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · 水洼黄雨靴"><br><sub>39 · 水洼黄雨靴</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · 盆栽仙人掌"><br><sub>39 · 盆栽仙人掌</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 363 · 40 · 水洼黄雨靴"><br><sub>40 · 水洼黄雨靴</sub></td>
   </tr>
 </table>
 

@@ -161,6 +161,18 @@
     },
     {
       "file": "assets/examples/sample-14.png",
+      "sha256": "3260801622f525b9437387c38d2e15ea9357d0b02c6c2faa1cf2fad4c7adf994",
+      "width": 1152,
+      "height": 1536,
+      "mode": "top-bottom",
+      "source_sha256": "d3e1eb897fea63c0a6739cbec194e13c65f7ab0cdab8fbc78fdaad474de52ef8",
+      "subject": "单只水壶",
+      "unsplash_id": "photo-1768853099411-b0405e07c73d",
+      "text_locale": "ko-KR",
+      "visual_review": "passed"
+    },
+    {
+      "file": "assets/examples/sample-15.png",
       "sha256": "4600e10ae7f08a3c7780bea99c0d2febff27a730de7270a547c01a56edee68b4",
       "width": 1152,
       "height": 1536,
@@ -172,7 +184,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-15.png",
+      "file": "assets/examples/sample-16.png",
       "sha256": "57d84b91ed6d094170788f75c32f383d8bcb6a8d6e631d463fa864ce9f3044ec",
       "width": 1152,
       "height": 1536,
@@ -184,7 +196,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-16.png",
+      "file": "assets/examples/sample-17.png",
       "sha256": "12b8e13ac24e9c28bf172305467c3e8ca1e3de86fa88f8cb0f3e2627360abdbf",
       "width": 1152,
       "height": 1536,
@@ -196,7 +208,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-17.png",
+      "file": "assets/examples/sample-18.png",
       "sha256": "160bad024c916cf6fd7269ed393b4721f20a4297d9770768d31149caf8474a34",
       "width": 1152,
       "height": 1536,
@@ -208,7 +220,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-18.png",
+      "file": "assets/examples/sample-19.png",
       "sha256": "425d1ff7271f215e4a1a155a9655f572832fd2d6cca0fb92c168e7460aac8bd4",
       "width": 1152,
       "height": 1536,
@@ -220,7 +232,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-19.png",
+      "file": "assets/examples/sample-20.png",
       "sha256": "04719aa0796c9fb041fbe94845d67119b9bc61a6683fb0e3a5e0b59ad3356415",
       "width": 1152,
       "height": 1536,
@@ -232,7 +244,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-20.png",
+      "file": "assets/examples/sample-21.png",
       "sha256": "86ad39bd65c27db091c443e151361c80ac4c2b342041768e8225bbd35a0950e4",
       "width": 1536,
       "height": 864,
@@ -244,7 +256,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-21.png",
+      "file": "assets/examples/sample-22.png",
       "sha256": "f7594cc1e5e9fa31cb1bedf451a15fdfc57186e378cc0729fb6525d539a4cd2d",
       "width": 1536,
       "height": 864,
@@ -256,7 +268,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-22.png",
+      "file": "assets/examples/sample-23.png",
       "sha256": "54752dce52b43a01eb9c764e7b2beee2e34a92676013f0e9472b97a7c2bdd099",
       "width": 1536,
       "height": 864,
@@ -268,7 +280,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-23.png",
+      "file": "assets/examples/sample-24.png",
       "sha256": "acac9030aa7788e0683c924cde15c781c853dc17b1f06b2cafaf432d4c41b886",
       "width": 1536,
       "height": 864,
@@ -280,7 +292,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-24.png",
+      "file": "assets/examples/sample-25.png",
       "sha256": "bad1e1b5da40f1f559b3797eebf51d14de8bd560645542cce0660340f00a10f4",
       "width": 1536,
       "height": 864,
@@ -292,7 +304,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-25.png",
+      "file": "assets/examples/sample-26.png",
       "sha256": "0ce875c5c53a90f241e498217708749cd3a39beb6701622ce327ff86ab2d0f91",
       "width": 1536,
       "height": 864,
@@ -304,7 +316,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-26.png",
+      "file": "assets/examples/sample-27.png",
       "sha256": "36b07b03a7b0e76edc5d85695ab601d2e1cb82fccced9de0a168ed8ef98a6614",
       "width": 1536,
       "height": 864,
@@ -316,7 +328,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-27.png",
+      "file": "assets/examples/sample-28.png",
       "sha256": "6624f0f83cfca6ce6f26251a45fc5c7c85ab3292def8b4f28f280461dea1079c",
       "width": 1536,
       "height": 864,
@@ -328,7 +340,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-28.png",
+      "file": "assets/examples/sample-29.png",
       "sha256": "ff1681ea86a99c84e555dc022e467f88b762de6232b5cd4eabea64cb3d6965cd",
       "width": 1536,
       "height": 864,
@@ -340,7 +352,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-29.png",
+      "file": "assets/examples/sample-30.png",
       "sha256": "81bd8b3ad4d4ce05a7e5fdc03f8052ab5d577ac5814b057f01122444d4edb6eb",
       "width": 1536,
       "height": 864,
@@ -352,7 +364,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-30.png",
+      "file": "assets/examples/sample-31.png",
       "sha256": "d491de589ac92bcb607d325b2852b75a25c744a64e8ba1bf6dca3b07bc1af58c",
       "width": 1536,
       "height": 864,
@@ -364,7 +376,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-31.png",
+      "file": "assets/examples/sample-32.png",
       "sha256": "900ae84aaea21d36970c4936532f78df27fd85cf12e6ed1e430a334156dbddaf",
       "width": 1536,
       "height": 864,
@@ -376,7 +388,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-32.png",
+      "file": "assets/examples/sample-33.png",
       "sha256": "6b80ab77b78eacb688e3073240feb9322c6da6ea7e104c00cf2306c983677823",
       "width": 1536,
       "height": 864,
@@ -388,7 +400,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-33.png",
+      "file": "assets/examples/sample-34.png",
       "sha256": "902c90ce2b3e03aab3fb7e638f04378bdc6e73dcc6a3b475918e32027e0cc4dc",
       "width": 1536,
       "height": 864,
@@ -400,7 +412,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-34.png",
+      "file": "assets/examples/sample-35.png",
       "sha256": "cad0844c3f37083f28aeb55f433908dd9436c0599b47a6571c1c20eb6f2ae819",
       "width": 1536,
       "height": 864,
@@ -412,7 +424,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-35.png",
+      "file": "assets/examples/sample-36.png",
       "sha256": "5e05ce8f11f10c3dd207ad9b88679b621ee67be242b47af1bf7a11502dafdb97",
       "width": 1536,
       "height": 864,
@@ -424,7 +436,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-36.png",
+      "file": "assets/examples/sample-37.png",
       "sha256": "600e85620551ada90cb21702500efa430e3e98c006f8b9c4ffaa23c8efe06b2f",
       "width": 1536,
       "height": 864,
@@ -436,7 +448,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-37.png",
+      "file": "assets/examples/sample-38.png",
       "sha256": "93439bf392b8e6de4d68a5b7883897c14e7783da0a705292ac599bfa9702fcac",
       "width": 1536,
       "height": 864,
@@ -448,7 +460,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-38.png",
+      "file": "assets/examples/sample-39.png",
       "sha256": "7f19e8fc3b4c540cbfc124939992854a93140af07416f690da723df2f9540ad8",
       "width": 1536,
       "height": 864,
@@ -460,7 +472,7 @@
       "visual_review": "passed"
     },
     {
-      "file": "assets/examples/sample-39.png",
+      "file": "assets/examples/sample-40.png",
       "sha256": "5a80d27376612f5a7d22cd43e004cb4b2683128042b2ab9fb5789bf8156ee10a",
       "width": 1536,
       "height": 864,

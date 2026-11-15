@@ -81,7 +81,7 @@ Each image below is a finished result this Skill made from one photo. The top–
 </table>
 
 <details>
-<summary>Show 15 more</summary>
+<summary>Show 16 more</summary>
 
 <table>
   <tr>
@@ -102,18 +102,19 @@ Each image below is a finished result this Skill made from one photo. The top–
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 363 · 13 · Cow in a field"><br><sub>13 · Cow in a field</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · Bread on linen"><br><sub>14 · Bread on linen</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · A water pitcher"><br><sub>14 · A water pitcher</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · Berry cake"><br><sub>15 · Berry cake</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · Meadow cabin"><br><sub>16 · Meadow cabin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · Bread on linen"><br><sub>15 · Bread on linen</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · Berry cake"><br><sub>16 · Berry cake</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · Wind turbine in a field"><br><sub>17 · Wind turbine in a field</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · Porch pumpkin"><br><sub>18 · Porch pumpkin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · Meadow cabin"><br><sub>17 · Meadow cabin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · Wind turbine in a field"><br><sub>18 · Wind turbine in a field</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · Garden barrow"><br><sub>19 · Garden barrow</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · Porch pumpkin"><br><sub>19 · Porch pumpkin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · Garden barrow"><br><sub>20 · Garden barrow</sub></td>
   </tr>
 </table>
 
@@ -123,12 +124,12 @@ Each image below is a finished result this Skill made from one photo. The top–
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · Standing in a doorway"><br><sub>20 · Standing in a doorway</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · Santa under an umbrella"><br><sub>21 · Santa under an umbrella</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · Standing in a doorway"><br><sub>21 · Standing in a doorway</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · Santa under an umbrella"><br><sub>22 · Santa under an umbrella</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · A full-length ballerina"><br><sub>22 · A full-length ballerina</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · Walk on a path"><br><sub>23 · Walk on a path</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · A full-length ballerina"><br><sub>23 · A full-length ballerina</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · Walk on a path"><br><sub>24 · Walk on a path</sub></td>
   </tr>
 </table>
 
@@ -137,36 +138,36 @@ Each image below is a finished result this Skill made from one photo. The top–
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · Yoga pose"><br><sub>24 · Yoga pose</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · Standing penguin"><br><sub>25 · Standing penguin</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · Yoga pose"><br><sub>25 · Yoga pose</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · Standing penguin"><br><sub>26 · Standing penguin</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · Flamingo by water"><br><sub>26 · Flamingo by water</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · Owl on a fence"><br><sub>27 · Owl on a fence</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · Flamingo by water"><br><sub>27 · Flamingo by water</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · Owl on a fence"><br><sub>28 · Owl on a fence</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · Cat sitting indoors"><br><sub>28 · Cat sitting indoors</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · Dog standing indoors"><br><sub>29 · Dog standing indoors</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · Cat sitting indoors"><br><sub>29 · Cat sitting indoors</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · Dog standing indoors"><br><sub>30 · Dog standing indoors</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · Desk lamp"><br><sub>30 · Desk lamp</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · Ladder by a wall"><br><sub>31 · Ladder by a wall</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · Desk lamp"><br><sub>31 · Desk lamp</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · Ladder by a wall"><br><sub>32 · Ladder by a wall</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · Tall plain vase"><br><sub>32 · Tall plain vase</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · Corner broom"><br><sub>33 · Corner broom</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · Tall plain vase"><br><sub>33 · Tall plain vase</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · Corner broom"><br><sub>34 · Corner broom</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · Cut pineapple"><br><sub>34 · Cut pineapple</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · Monstera leaf"><br><sub>35 · Monstera leaf</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · Cut pineapple"><br><sub>35 · Cut pineapple</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · Monstera leaf"><br><sub>36 · Monstera leaf</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · Garden sunflower"><br><sub>36 · Garden sunflower</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · Lone pine on a slope"><br><sub>37 · Lone pine on a slope</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · Garden sunflower"><br><sub>37 · Garden sunflower</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · Lone pine on a slope"><br><sub>38 · Lone pine on a slope</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · Potted cactus"><br><sub>38 · Potted cactus</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · Yellow boots in a puddle"><br><sub>39 · Yellow boots in a puddle</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · Potted cactus"><br><sub>39 · Potted cactus</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 363 · 40 · Yellow boots in a puddle"><br><sub>40 · Yellow boots in a puddle</sub></td>
   </tr>
 </table>
 

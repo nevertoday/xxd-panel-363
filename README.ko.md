@@ -81,7 +81,7 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 </table>
 
 <details>
-<summary>15장 더 보기</summary>
+<summary>16장 더 보기</summary>
 
 <table>
   <tr>
@@ -102,18 +102,19 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
   </tr>
   <tr>
     <td width="50%"><img src="./assets/examples/sample-13.png" alt="XXD Panel 363 · 13 · 들판의 젖소"><br><sub>13 · 들판의 젖소</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · 리넨 위 빵"><br><sub>14 · 리넨 위 빵</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-14.png" alt="XXD Panel 363 · 14 · 물주전자 하나"><br><sub>14 · 물주전자 하나</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · 베리 케이크"><br><sub>15 · 베리 케이크</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · 초원의 오두막"><br><sub>16 · 초원의 오두막</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-15.png" alt="XXD Panel 363 · 15 · 리넨 위 빵"><br><sub>15 · 리넨 위 빵</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-16.png" alt="XXD Panel 363 · 16 · 베리 케이크"><br><sub>16 · 베리 케이크</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · 들판의 풍력 발전기"><br><sub>17 · 들판의 풍력 발전기</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · 현관의 호박"><br><sub>18 · 현관의 호박</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-17.png" alt="XXD Panel 363 · 17 · 초원의 오두막"><br><sub>17 · 초원의 오두막</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-18.png" alt="XXD Panel 363 · 18 · 들판의 풍력 발전기"><br><sub>18 · 들판의 풍력 발전기</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · 정원의 손수레"><br><sub>19 · 정원의 손수레</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-19.png" alt="XXD Panel 363 · 19 · 현관의 호박"><br><sub>19 · 현관의 호박</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · 정원의 손수레"><br><sub>20 · 정원의 손수레</sub></td>
   </tr>
 </table>
 
@@ -123,12 +124,12 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-20.png" alt="XXD Panel 363 · 20 · 문틀에 서 있음"><br><sub>20 · 문틀에 서 있음</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · 우산 아래 산타"><br><sub>21 · 우산 아래 산타</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-21.png" alt="XXD Panel 363 · 21 · 문틀에 서 있음"><br><sub>21 · 문틀에 서 있음</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · 우산 아래 산타"><br><sub>22 · 우산 아래 산타</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-22.png" alt="XXD Panel 363 · 22 · 발레리나 전신"><br><sub>22 · 발레리나 전신</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · 오솔길 산책"><br><sub>23 · 오솔길 산책</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-23.png" alt="XXD Panel 363 · 23 · 발레리나 전신"><br><sub>23 · 발레리나 전신</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · 오솔길 산책"><br><sub>24 · 오솔길 산책</sub></td>
   </tr>
 </table>
 
@@ -137,36 +138,36 @@ npx skills add https://github.com/nevertoday/xxd-panel-363 --skill xxd-panel-363
 
 <table>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-24.png" alt="XXD Panel 363 · 24 · 요가 자세"><br><sub>24 · 요가 자세</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · 서 있는 펭귄"><br><sub>25 · 서 있는 펭귄</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-25.png" alt="XXD Panel 363 · 25 · 요가 자세"><br><sub>25 · 요가 자세</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · 서 있는 펭귄"><br><sub>26 · 서 있는 펭귄</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-26.png" alt="XXD Panel 363 · 26 · 물가의 홍학"><br><sub>26 · 물가의 홍학</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · 울타리의 부엉이"><br><sub>27 · 울타리의 부엉이</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-27.png" alt="XXD Panel 363 · 27 · 물가의 홍학"><br><sub>27 · 물가의 홍학</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · 울타리의 부엉이"><br><sub>28 · 울타리의 부엉이</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-28.png" alt="XXD Panel 363 · 28 · 실내에 앉은 고양이"><br><sub>28 · 실내에 앉은 고양이</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · 실내에 선 개"><br><sub>29 · 실내에 선 개</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-29.png" alt="XXD Panel 363 · 29 · 실내에 앉은 고양이"><br><sub>29 · 실내에 앉은 고양이</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · 실내에 선 개"><br><sub>30 · 실내에 선 개</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-30.png" alt="XXD Panel 363 · 30 · 책상 램프"><br><sub>30 · 책상 램프</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · 벽에 기댄 사다리"><br><sub>31 · 벽에 기댄 사다리</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-31.png" alt="XXD Panel 363 · 31 · 책상 램프"><br><sub>31 · 책상 램프</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · 벽에 기댄 사다리"><br><sub>32 · 벽에 기댄 사다리</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-32.png" alt="XXD Panel 363 · 32 · 민무늬 긴 꽃병"><br><sub>32 · 민무늬 긴 꽃병</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · 구석의 빗자루"><br><sub>33 · 구석의 빗자루</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-33.png" alt="XXD Panel 363 · 33 · 민무늬 긴 꽃병"><br><sub>33 · 민무늬 긴 꽃병</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · 구석의 빗자루"><br><sub>34 · 구석의 빗자루</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-34.png" alt="XXD Panel 363 · 34 · 자른 파인애플"><br><sub>34 · 자른 파인애플</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · 몬스테라 잎"><br><sub>35 · 몬스테라 잎</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-35.png" alt="XXD Panel 363 · 35 · 자른 파인애플"><br><sub>35 · 자른 파인애플</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · 몬스테라 잎"><br><sub>36 · 몬스테라 잎</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-36.png" alt="XXD Panel 363 · 36 · 정원의 해바라기"><br><sub>36 · 정원의 해바라기</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · 언덕 위 외로운 소나무"><br><sub>37 · 언덕 위 외로운 소나무</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-37.png" alt="XXD Panel 363 · 37 · 정원의 해바라기"><br><sub>37 · 정원의 해바라기</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · 언덕 위 외로운 소나무"><br><sub>38 · 언덕 위 외로운 소나무</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="./assets/examples/sample-38.png" alt="XXD Panel 363 · 38 · 화분 선인장"><br><sub>38 · 화분 선인장</sub></td>
-    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · 물웅덩이 노란 장화"><br><sub>39 · 물웅덩이 노란 장화</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-39.png" alt="XXD Panel 363 · 39 · 화분 선인장"><br><sub>39 · 화분 선인장</sub></td>
+    <td width="50%"><img src="./assets/examples/sample-40.png" alt="XXD Panel 363 · 40 · 물웅덩이 노란 장화"><br><sub>40 · 물웅덩이 노란 장화</sub></td>
   </tr>
 </table>
 
